@@ -1,0 +1,13 @@
+.service_section {
+  background: rgb(2, 0, 36);
+  background: linear-gradient(
+    90deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(223, 236, 176, 0.742734593837535) 84%,
+    rgba(21, 156, 226, 0.8267682072829132) 98%,
+    rgba(0, 212, 255, 1) 100%
+  );
+}
+p {
+  text-align: justify;
+}

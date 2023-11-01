@@ -1,0 +1,39 @@
+.about_section {
+    background: rgb(2, 0, 36);
+    background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(167, 172, 149, 0.742734593837535) 84%,
+            rgba(21, 156, 226, 0.8267682072829132) 98%, rgba(0, 212, 255, 1) 100%);
+
+}
+
+.about_title {
+
+    font-family: 'Playfair Display', serif;
+}
+
+.about_content {
+    text-align: justify;
+}
+
+.team_section {
+    text-decoration: underline;
+}
+
+.card_title {
+    font-family: 'Croissant One', serif;
+}
+
+/* font-family: 'Cormorant Garamond', serif;
+font-family: 'Croissant One', serif;
+font-family: 'Dancing Script', cursive;
+font-family: 'DM Serif Display', serif;
+font-family: 'Playfair Display', serif;
+font-family: 'Tangerine', cursive;
+font-family: 'Young Serif', serif;
+
+font-family: 'Cormorant Garamond', serif;
+font-family: 'Croissant One', serif;
+font-family: 'Dancing Script', cursive;
+font-family: 'DM Serif Display', serif;
+font-family: 'Playfair Display', serif;
+font-family: 'Tangerine', cursive;
+font-family: 'Young Serif', serif; */

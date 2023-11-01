@@ -1,0 +1,16 @@
+.footer_section {
+    background: rgb(2, 0, 36);
+    background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%,
+            rgba(209, 231, 141, 0.9248074229691877) 84%, rgba(21, 156, 226, 0.8267682072829132) 98%, rgba(0, 212, 255, 1) 100%);
+
+}
+
+#heading {
+    text-decoration: underline;
+    font-family: 'Playfair Display', serif;
+
+}
+h3{
+    font-family: 'Playfair Display', serif;  
+}
+

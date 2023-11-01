@@ -1,0 +1,39 @@
+.navbar_section {
+    background: rgb(2, 0, 36);
+    background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%,
+            rgba(209, 231, 141, 0.9248074229691877) 84%, rgba(21, 156, 226, 0.8267682072829132) 98%, 
+            rgba(0, 212, 255, 1) 100%);
+}
+
+.title {
+    font-size: 3rem;
+    color: white;
+    font-family: 'Croissant One', serif;
+}
+.title:hover{
+    color: #ff0000;
+}
+.title:active{
+    color:green;
+}
+
+.nav_menu {
+    color: white;
+    font-size: 20px;
+    font-family: 'Playfair Display', serif;
+}
+.nav_menu:hover{
+    color: red;
+    font-size: 25px;
+}
+
+.modal_header{
+    background: rgb(2, 0, 36);
+    background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%,
+            rgba(209, 231, 141, 0.9248074229691877) 84%, rgba(21, 156, 226, 0.8267682072829132) 98%, 
+            rgba(0, 212, 255, 1) 100%);
+}
+label{
+    font-family: 'Playfair Display', serif;
+    color: white;
+}

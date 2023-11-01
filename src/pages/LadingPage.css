@@ -1,0 +1,11 @@
+.landing_section{
+    background-image:url("https://i.postimg.cc/hGgTDz0g/beauty1.jpg") ;
+    /* background-image:url("https://i.postimg.cc/0j37PVVH/beauty2.jpg") ; */
+    /* background-image:url("https://i.postimg.cc/wjNQTd85/beauty3.jpg") ; */
+
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+p{
+font-family: 'Playfair Display', serif;
+}
